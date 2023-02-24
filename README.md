@@ -37,6 +37,7 @@ Each row represents a customer, each column contains a customer attribute. The d
 	* A churned customer is a user who has stopped using your product or service.
 	* This customer has a tenure level, which is the number of months this person has used our product/service.
 
+
 ## Business Requirements
 As a Data Analyst from Code Institute Consulting, you are requested by the Telco division to provide actionable insights and data-driven recommendations to a Telecom corporation. This client has a substantial customer base and is interested in managing churn levels and understanding how the sales team could better interact with prospects. The client has shared the data.
 
@@ -175,3 +176,5 @@ As a Data Analyst from Code Institute Consulting, you are requested by the Telco
 * The most important features to define a cluster
 * Cluster Profile
 
+## Link to deployed app
+[Churnometer live app](https://churnometer-ml-project.herokuapp.com/)
